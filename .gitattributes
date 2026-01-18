@@ -7,3 +7,5 @@ __tests__/__snapshots__/test-exports.js.snap text eol=lf
 **/*.zip binary -eol
 *.min.js binary
 sidecar.v1.js binary
+
+*.tgz binary
