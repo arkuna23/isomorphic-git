@@ -68,8 +68,6 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-# Output of 'npm pack'
-*.tgz
 
 # Yarn Integrity file
 .yarn-integrity
@@ -151,5 +149,3 @@ docs/writeObject.md
 docs/writeRef.md
 docs/writeTag.md
 docs/writeTree.md
-
-yarn.lock
